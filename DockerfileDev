@@ -1,4 +1,4 @@
-FROM openjdk:8
+FROM openjdk:17
 ENV PORT 8080
 ENV CLASSPATH /app
 EXPOSE 8080
